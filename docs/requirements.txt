@@ -1,8 +1,0 @@
-chartpress
-myst-parser
-pydata-sphinx-theme
-pyyaml
-sphinx-autobuild
-sphinx-copybutton
-sphinxext-opengraph
-sphinxext-rediraffe
